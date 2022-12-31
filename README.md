@@ -8,6 +8,7 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 |----------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
 | Count Odd Numbers below n              | [Link](https://www.codewars.com/kata/59342039eb450e39970000a6) | [Link](./lib/8kyu/count_odd_numbers_below_n.dart)              |
 | Count by X                             | [Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e) | [Link](./lib/8kyu/count_by_x.dart)                             |
+| Convert a Number to a String!          | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link](./lib/8kyu/convert_a_number_to_a_string.dart)           |
 | DNA to RNA Conversion                  | [Link](https://www.codewars.com/kata/5556282156230d0e5e000089) | [Link](./lib/8kyu/dna_to_rna_conversion.dart)                  |
 | Expressions Matter                     | [Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) | [Link](./lib/8kyu/expressions_matter.dart)                     |
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./lib/8kyu/find_the_smallest_integer_in_the_array.dart) |
