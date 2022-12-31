@@ -12,6 +12,7 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 | Expressions Matter                     | [Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) | [Link](./lib/8kyu/expressions_matter.dart)                     |
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./lib/8kyu/find_the_smallest_integer_in_the_array.dart) |
 | Is it a palindrome?                    | [Link](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4) | [Link](./lib/8kyu/is_it_a_palindrome.dart)                     |
+| Multiply                               | [Link](https://www.codewars.com/kata/50654ddff44f800200000004) | [Link](./lib/8kyu/multiply.dart)                               |
 | Remove String Spaces                   | [Link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Link](./lib/8kyu/remove_string_spaces.dart)                   |
 | Reverse List Order                     | [Link](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b) | [Link](./lib/8kyu/reverse_list_order.dart)                     |
 | Sentence Smash                         | [Link](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | [Link](./lib/8kyu/sentence_smash.dart)                         |
