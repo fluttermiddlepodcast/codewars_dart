@@ -40,6 +40,7 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 | Name                    | Codewars                                                       | Solution                                       |
 |-------------------------|----------------------------------------------------------------|------------------------------------------------|
 | Count the smiley faces! | [Link](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [Link](./lib/6kyu/count_the_smiley_faces.dart) |
+| Counting Duplicates     | [Link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Link](./lib/6kyu/counting_duplicates.dart)    |
 | Create Phone Number     | [Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [Link](./lib/6kyu/create_phone_number.dart)    |
 | Meeting                 | [Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) | [Link](./lib/6kyu/meeting.dart)                |
 | Multiples of 3 or 5     | [Link](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Link](./lib/6kyu/multiples_of_3_or_5.dart)    |
