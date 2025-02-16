@@ -9,13 +9,11 @@ main() {
     );
     test(
       'Test 2',
-      () => expect(findSmallestInt([324, 578, -12, 647, 34346, 12, 95, -500]),
-          equals(-500)),
+      () => expect(findSmallestInt([324, 578, -12, 647, 34346, 12, 95, -500]), equals(-500)),
     );
     test(
       'Test 3',
-      () => expect(
-          findSmallestInt([-346, 35467, 234, 0, 254, -39, -999]), equals(-999)),
+      () => expect(findSmallestInt([-346, 35467, 234, 0, 254, -39, -999]), equals(-999)),
     );
   });
 }

@@ -25,8 +25,7 @@ void main() {
     );
     test(
       'Testing for [29, 83, 67, 53, 19, 28, 96]',
-      () =>
-          expect(rowWeights([29, 83, 67, 53, 19, 28, 96]), equals([211, 164])),
+      () => expect(rowWeights([29, 83, 67, 53, 19, 28, 96]), equals([211, 164])),
     );
     test(
       'Testing for [0]',
@@ -38,8 +37,7 @@ void main() {
     );
     test(
       'Testing for [39, 84, 74, 18, 59, 72, 35, 61]',
-      () => expect(
-          rowWeights([39, 84, 74, 18, 59, 72, 35, 61]), equals([207, 235])),
+      () => expect(rowWeights([39, 84, 74, 18, 59, 72, 35, 61]), equals([207, 235])),
     );
     test(
       'Testing for [0, 1, 0]',

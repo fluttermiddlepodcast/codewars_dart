@@ -7,14 +7,38 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  analyzer:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: dart-lang/setup-dart@v1.0
         with:
-          sdk: 2.18.0
+          sdk: 3.6.0
       - name: Install dependencies
         run: dart pub get
       - name: Run tests
-        run: dart test
+        run: dart analyze --fatal-warnings --fatal-infos
+
+  formatter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dart-lang/setup-dart@v1.0
+        with:
+          sdk: 3.6.0
+      - name: Install dependencies
+        run: dart pub get
+      - name: Run tests
+        run: dart format -l 120 --set-exit-if-changed ./
+
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dart-lang/setup-dart@v1.0
+        with:
+          sdk: 3.6.0
+      - name: Install dependencies
+        run: dart pub get
+      - name: Run tests
+        run: dart test -c source
