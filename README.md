@@ -32,6 +32,7 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 | Maximum Multiple         | [Link](https://www.codewars.com/kata/5aba780a6a176b029800041c) | [Link](./lib/7kyu/maximum_multiple.dart)         |
 | Maximum Product          | [Link](https://www.codewars.com/kata/5a4138acf28b82aa43000117) | [Link](./lib/7kyu/maximum_product.dart)          |
 | Mumbling                 | [Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) | [Link](./lib/7kyu/mumbling.dart)                 |
+| Nth Smallest Element     | [Link](https://www.codewars.com/kata/5a512f6a80eba857280000fc) | [Link](./lib/7kyu/nth_smallest_element.dart)     |
 | Odd or Even?             | [Link](https://www.codewars.com/kata/5949481f86420f59480000e7) | [Link](./lib/7kyu/odd_or_even.dart)              |
 | Predict your age!        | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./lib/7kyu/predict_your_age.dart)         |
 | Row Weights              | [Link](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) | [Link](./lib/7kyu/row_weights.dart)              |
