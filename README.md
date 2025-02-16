@@ -37,6 +37,7 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 | Predict your age!            | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./lib/7kyu/predict_your_age.dart)             |
 | Product Of Maximums Of Array | [Link](https://www.codewars.com/kata/5a63948acadebff56f000018) | [Link](./lib/7kyu/product_of_maximums_of_array.dart) |
 | Row Weights                  | [Link](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) | [Link](./lib/7kyu/row_weights.dart)                  |
+| V A P O R C O D E            | [Link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a) | [Link](./lib/7kyu/vaporcode.dart)                    |
 | Vowel Count                  | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](./lib/7kyu/vowel_count.dart)                  |
 
 ## 6 kyu
