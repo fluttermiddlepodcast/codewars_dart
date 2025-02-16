@@ -2,7 +2,9 @@
 
 Solutions from [Codewars](https://www.codewars.com) on Dart.
 
-## 8 kyu
+## Solutions
+
+### 8 kyu
 
 | Name                                   | Codewars                                                       | Solution                                                       |
 | -------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -21,7 +23,7 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 | Sum Arrays                             | [Link](https://www.codewars.com/kata/53dc54212259ed3d4f00071c) | [Link](./lib/8kyu/sum_arrays.dart)                             |
 | Sum of positive                        | [Link](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Link](./lib/8kyu/sum_of_positive.dart)                        |
 
-## 7 kyu
+### 7 kyu
 
 | Name                         | Codewars                                                       | Solution                                             |
 | ---------------------------- | -------------------------------------------------------------- | ---------------------------------------------------- |
@@ -41,7 +43,7 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 | V A P O R C O D E            | [Link](https://www.codewars.com/kata/5966eeb31b229e44eb00007a) | [Link](./lib/7kyu/vaporcode.dart)                    |
 | Vowel Count                  | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](./lib/7kyu/vowel_count.dart)                  |
 
-## 6 kyu
+### 6 kyu
 
 | Name                    | Codewars                                                       | Solution                                        |
 | ----------------------- | -------------------------------------------------------------- | ----------------------------------------------- |
@@ -54,8 +56,24 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 | Sums of Parts           | [Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b) | [Link](./lib/6kyu/sums_of_parts.dart)           |
 | Valid Braces            | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [Link](./lib/6kyu/valid_braces.dart)            |
 
-## 5 kyu
+### 5 kyu
 
 | Name                        | Codewars                                                       | Solution                                            |
 | --------------------------- | -------------------------------------------------------------- | --------------------------------------------------- |
 | Convert A Hex String To RGB | [Link](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7) | [Link](./lib/5kyu/convert_a_hex_string_to_rgb.dart) |
+
+## How to run
+
+First of all, make sure that you have correct Dart version installed on your system. [Link](./pubspec.yaml) contains information about minimum Dart version in `platform` section.
+
+1. Install dependencies:
+
+```shell
+$ dart pub get
+```
+
+2. Run tests:
+
+```shell
+$ dart test -c source
+```
