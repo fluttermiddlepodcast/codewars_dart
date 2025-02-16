@@ -5,7 +5,7 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 ## 8 kyu
 
 | Name                                   | Codewars                                                       | Solution                                                       |
-|----------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| -------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
 | Count Odd Numbers below n              | [Link](https://www.codewars.com/kata/59342039eb450e39970000a6) | [Link](./lib/8kyu/count_odd_numbers_below_n.dart)              |
 | Count by X                             | [Link](https://www.codewars.com/kata/5513795bd3fafb56c200049e) | [Link](./lib/8kyu/count_by_x.dart)                             |
 | Convert a Number to a String!          | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link](./lib/8kyu/convert_a_number_to_a_string.dart)           |
@@ -24,10 +24,11 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 ## 7 kyu
 
 | Name                     | Codewars                                                                  | Solution                                         |
-|--------------------------|---------------------------------------------------------------------------|--------------------------------------------------|
+| ------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------ |
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)            | [Link](./lib/7kyu/even_numbers_in_an_array.dart) |
 | Factorial                | [Link](https://www.codewars.com/kata/57a049e253ba33ac5e000212)            | [Link](./lib/7kyu/factorial.dart)                |
 | Get the Middle Character | [Link](https://www.codewars.com/kata/56747fd5cb988479af000028)            | [Link](./lib/7kyu/get_the_middle_character.dart) |
+| Leap Years               | [Link](https://www.codewars.com/kata/526c7363236867513f0005ca)            | [Link](./lib/7kyu/leap_years.dart)               |
 | Maximum Product          | [Link](https://www.codewars.com/kata/5a4138acf28b82aa43000117)            | [Link](./lib/7kyu/maximum_product.dart)          |
 | Mumbling                 | [Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/dart) | [Link](./lib/7kyu/mumbling.dart)                 |
 | Odd or Even?             | [Link](https://www.codewars.com/kata/5949481f86420f59480000e7)            | [Link](./lib/7kyu/odd_or_even.dart)              |
@@ -37,19 +38,19 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 
 ## 6 kyu
 
-| Name                     | Codewars                                                       | Solution                                        |
-|--------------------------|----------------------------------------------------------------|-------------------------------------------------|
-| Count the smiley faces!  | [Link](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [Link](./lib/6kyu/count_the_smiley_faces.dart)  |
-| Counting Duplicates      | [Link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Link](./lib/6kyu/counting_duplicates.dart)     |
-| Create Phone Number      | [Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [Link](./lib/6kyu/create_phone_number.dart)     |
-| Find The Parity Outlier  | [Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [Link](./lib/6kyu/find_the_parity_outlier.dart) |
-| Meeting                  | [Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) | [Link](./lib/6kyu/meeting.dart)                 |
-| Multiples of 3 or 5      | [Link](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Link](./lib/6kyu/multiples_of_3_or_5.dart)     |
-| Sums of Parts            | [Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b) | [Link](./lib/6kyu/sums_of_parts.dart)           |
-| Valid Braces             | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [Link](./lib/6kyu/valid_braces.dart)            |
+| Name                    | Codewars                                                       | Solution                                        |
+| ----------------------- | -------------------------------------------------------------- | ----------------------------------------------- |
+| Count the smiley faces! | [Link](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [Link](./lib/6kyu/count_the_smiley_faces.dart)  |
+| Counting Duplicates     | [Link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Link](./lib/6kyu/counting_duplicates.dart)     |
+| Create Phone Number     | [Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [Link](./lib/6kyu/create_phone_number.dart)     |
+| Find The Parity Outlier | [Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [Link](./lib/6kyu/find_the_parity_outlier.dart) |
+| Meeting                 | [Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) | [Link](./lib/6kyu/meeting.dart)                 |
+| Multiples of 3 or 5     | [Link](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Link](./lib/6kyu/multiples_of_3_or_5.dart)     |
+| Sums of Parts           | [Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b) | [Link](./lib/6kyu/sums_of_parts.dart)           |
+| Valid Braces            | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [Link](./lib/6kyu/valid_braces.dart)            |
 
 ## 5 kyu
 
 | Name                        | Codewars                                                       | Solution                                            |
-|-----------------------------|----------------------------------------------------------------|-----------------------------------------------------|
+| --------------------------- | -------------------------------------------------------------- | --------------------------------------------------- |
 | Convert A Hex String To RGB | [Link](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7) | [Link](./lib/5kyu/convert_a_hex_string_to_rgb.dart) |
