@@ -8,10 +8,10 @@ int maxProduct(List<int> arr, k) {
 // int maxProduct(List<int> arr, size) {
 //   arr.sort();
 //   int result = 1;
-//  
+//
 //   for (var i = 0; i < size; i += 1) {
 //     result *= arr[arr.length - i - 1];
 //   }
-//    
+//
 //   return result;
 // }

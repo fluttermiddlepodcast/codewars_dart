@@ -2,8 +2,7 @@ import 'package:codewars_dart/6kyu/meeting.dart';
 import "package:test/test.dart";
 
 void main() {
-  testing(s, exp) =>
-      test("Testing for $s", () => expect(meeting(s), equals(exp)));
+  testing(s, exp) => test("Testing for $s", () => expect(meeting(s), equals(exp)));
   group("Fixed tests", () {
     testing(
       "Alexis:Wahl;John:Bell;Victoria:Schwarz;Abba:Dorny;Grace:Meta;Ann:Arno;Madison:STAN;Alex:Cornwell;Lewis:Kern;Megan:Stan;Alex:Korn",

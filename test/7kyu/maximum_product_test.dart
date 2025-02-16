@@ -29,19 +29,15 @@ void main() {
     );
     test(
       'Testing for [9, 5, 10, 2, 24, -1, -48]',
-      () => expect(
-          adjacentElementsProduct([9, 5, 10, 2, 24, -1, -48]), equals(50)),
+      () => expect(adjacentElementsProduct([9, 5, 10, 2, 24, -1, -48]), equals(50)),
     );
     test(
       'Testing for [5, 6, -4, 2, 3, 2, -23]',
-      () =>
-          expect(adjacentElementsProduct([5, 6, -4, 2, 3, 2, -23]), equals(30)),
+      () => expect(adjacentElementsProduct([5, 6, -4, 2, 3, 2, -23]), equals(30)),
     );
     test(
       'Testing for [-23, 4, -5, 99, -27, 329, -2, 7, -921]',
-      () => expect(
-          adjacentElementsProduct([-23, 4, -5, 99, -27, 329, -2, 7, -921]),
-          equals(-14)),
+      () => expect(adjacentElementsProduct([-23, 4, -5, 99, -27, 329, -2, 7, -921]), equals(-14)),
     );
     test(
       'Testing for [5, 1, 2, 3, 1, 4]',
