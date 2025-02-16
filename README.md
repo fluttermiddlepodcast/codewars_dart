@@ -23,18 +23,19 @@ Solutions from [Codewars](https://www.codewars.com) on Dart.
 
 ## 7 kyu
 
-| Name                     | Codewars                                                                  | Solution                                         |
-| ------------------------ | ------------------------------------------------------------------------- | ------------------------------------------------ |
-| Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c)            | [Link](./lib/7kyu/even_numbers_in_an_array.dart) |
-| Factorial                | [Link](https://www.codewars.com/kata/57a049e253ba33ac5e000212)            | [Link](./lib/7kyu/factorial.dart)                |
-| Get the Middle Character | [Link](https://www.codewars.com/kata/56747fd5cb988479af000028)            | [Link](./lib/7kyu/get_the_middle_character.dart) |
-| Leap Years               | [Link](https://www.codewars.com/kata/526c7363236867513f0005ca)            | [Link](./lib/7kyu/leap_years.dart)               |
-| Maximum Product          | [Link](https://www.codewars.com/kata/5a4138acf28b82aa43000117)            | [Link](./lib/7kyu/maximum_product.dart)          |
-| Mumbling                 | [Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/dart) | [Link](./lib/7kyu/mumbling.dart)                 |
-| Odd or Even?             | [Link](https://www.codewars.com/kata/5949481f86420f59480000e7)            | [Link](./lib/7kyu/odd_or_even.dart)              |
-| Predict your age!        | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae)            | [Link](./lib/7kyu/predict_your_age.dart)         |
-| Row Weights              | [Link](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9)            | [Link](./lib/7kyu/row_weights.dart)              |
-| Vowel Count              | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3)            | [Link](./lib/7kyu/vowel_count.dart)              |
+| Name                     | Codewars                                                       | Solution                                         |
+| ------------------------ | -------------------------------------------------------------- | ------------------------------------------------ |
+| Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./lib/7kyu/even_numbers_in_an_array.dart) |
+| Factorial                | [Link](https://www.codewars.com/kata/57a049e253ba33ac5e000212) | [Link](./lib/7kyu/factorial.dart)                |
+| Get the Middle Character | [Link](https://www.codewars.com/kata/56747fd5cb988479af000028) | [Link](./lib/7kyu/get_the_middle_character.dart) |
+| Leap Years               | [Link](https://www.codewars.com/kata/526c7363236867513f0005ca) | [Link](./lib/7kyu/leap_years.dart)               |
+| Maximum Multiple         | [Link](https://www.codewars.com/kata/5aba780a6a176b029800041c) | [Link](./lib/7kyu/maximum_multiple.dart)         |
+| Maximum Product          | [Link](https://www.codewars.com/kata/5a4138acf28b82aa43000117) | [Link](./lib/7kyu/maximum_product.dart)          |
+| Mumbling                 | [Link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) | [Link](./lib/7kyu/mumbling.dart)                 |
+| Odd or Even?             | [Link](https://www.codewars.com/kata/5949481f86420f59480000e7) | [Link](./lib/7kyu/odd_or_even.dart)              |
+| Predict your age!        | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./lib/7kyu/predict_your_age.dart)         |
+| Row Weights              | [Link](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) | [Link](./lib/7kyu/row_weights.dart)              |
+| Vowel Count              | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](./lib/7kyu/vowel_count.dart)              |
 
 ## 6 kyu
 
